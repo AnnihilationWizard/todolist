@@ -1,0 +1,21 @@
+# Node.js modules
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+logs/
+*.log
+
+# System files
+.DS_Store
+
+# Environment variables
+.env
+
+# Vite cache
+.vite
+
+# Tailwind cache
+.tailwindcache/
